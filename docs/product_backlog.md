@@ -6,14 +6,14 @@ O Backlog do Produto é um artefato que comporta a lista de requisitos elicitado
   
 | Épico  | US's |
 |--|--|
-| Edição e exclusão dos metadados dos documento | [US01](#us01), [US02](#us02), [US03](#us03), [US04](#us04) |
-| Cadastro de usuários no sistema | [US05](#us05)|
-| Gerenciar credenciais de usuário (admin, alimentador, visualizador) | [US06](#us06)|
-| Informar quando o documento atinge sua temporalidade | [US07](#us07)|
-| Gerar relatórios | [US08](#us08)|
-| Status do documento de Arquivamento de Caixas | [US09](#us09), [US10](#us10) |
-| Impressão de etiquetas | [US11](#us11)|
-|  Cadastro de inventário (museu) | [US12](#us12), [US13](#us13) |
+| Edição e exclusão dos metadados dos documento | [US01](#us01), [US02](#us02), [US03](#us03) |
+| Cadastro de usuários no sistema | [US04](#us04)|
+| Gerenciar credenciais de usuário (admin, alimentador, visualizador) | [US05](#us05)|
+| Informar quando o documento atinge sua temporalidade | [US06](#us06)|
+| Gerar relatórios | [US07](#us07)|
+| Status do documento de Arquivamento de Caixas | [US08](#us08), [US09](#us09) |
+| Impressão de etiquetas | [US10](#us10)|
+| Cadastro de inventário (museu) | [US11](#us11), [US12](#us12) |
 
 
 ## Histórias de Usuário
@@ -37,67 +37,61 @@ O Backlog do Produto é um artefato que comporta a lista de requisitos elicitado
 | **Critérios de aceitação** | - Opção de deleção em Processo Administrativo <br> - Opção de deleção em Relação de Frequências <br> - Opção de deleção em Folhas de Frequências <br> - Opção de deleção em Arquivamento de Caixas <br> |
 
 ### US04
-| **Épico** | Edição e exclusão dos metadados dos documentos |
-| ---: | :------- |
-| **Descrição** | Eu, **como** usuário alimentador, **quero** deletar informações referentes aos campos obrigatórios **para** remover o registro no sistema. |
-| **Critérios de aceitação** | - Opção de deleção em Assunto do Documento <br> - Opção de deleção em Unidade <br> - Opção de deleção em Caixa <br> - Opção de deleção em Tipo de Documento <br> - Opção de deleção em Estante e Prateleira <br> - Opção de deleção em Servidor <br> - Impedir de deletar campos que estão sendo utilizados <br> |
-
-### US05
-| **Épico** | Cadastro inicial do usuário no sistema |
+| **Épico** | Cadastro de usuários no sistema |
 | ---: | :------- |
 | **Descrição** | Eu, **como** administrador, **quero** cadastrar novos usuários **para** dar acesso a outras pessoas ao sistema. |
 | **Critérios de aceitação** | - Tela para registro de novos usuários <br> - Formulário de cadastro <br> |
 
-### US06
+### US05
 | **Épico** | Gerenciar credenciais de usuário (admin, alimentador, visualizador) |
 | ---: | :------- |
 | **Descrição** | Eu, **como** administrador, **quero** escolher o tipo de usuário no cadastro **para** definir quais permissões ele terá. |
 | **Critérios de aceitação** | - Campo "tipo" no cadastro de usuário <br> - Visualizador com permissão a consumo de dados <br> - Alimentador com permissão a consumo e cadastro de dados (exceto usuários) <br> - Administrador com permissão total <br>|
-| **Dependência** | [US05](#us05)|
+| **Dependência** | [US04](#us04)|
 
-### US07
+### US06
 | **Épico** | Informar quando o documento atinge sua temporalidade |
 | ---: | :------- |
 | **Descrição** | Eu, **como** usuário, **quero** ser informado quando o documento atingir a sua temporalidade definida **para** que assim eu decida que fim ele terá. |
 | **Critérios de aceitação** | - Informar quando o documento atingir a temporalidade definida <br> |
 
-### US08
+### US07
 | **Épico** | Gerar relatórios |
 | ---: | :------- |
 | **Descrição** | Eu, **como** usuário, **quero** requisitar relatórios com informações dos documentos cadastrados **para** que eu possa fazer analises em cima disso. |
 | **Critérios de aceitação** | - Gerar relatório <br> - Customizar o conteúdo do relatório <br> |
 
-### US09
+### US08
 | **Épico** | Status para encaminhamento de arquivos (arquivamento de caixa |
 | ---: | :------- |
 | **Descrição** | Eu, **como** usuário alimentador, **quero** definir o status do arquivamento de caixas **para** ter conhecimento do estado do documento na seção. |
 | **Critérios de aceitação** | - Campo de status com: arquivado, desarquivado e eliminado <br> |
 
-### US10
+### US09
 | **Épico** | Status para encaminhamento de arquivos (arquivamento de caixa) |
 | ---: | :------- |
 | **Descrição** | Eu, **como** usuário alimentador, **quero** adicionar informações sobre o desarquivamento de caixas **para** ter o registro de sua transitação. |
 | **Critérios de aceitação** | - Campo para unidade de destino do desarquivamento <br> - Campo para número de processo do desarquivamento <br> - Campo para data do desarquivamento <br>|
-| **Dependência** | [US09](#us09)|
+| **Dependência** | [US08](#us08)|
 
-### US11
+### US10
 | **Épico** | Impressão de etiquetas |
 | ---: | :------- |
 | **Descrição** | Eu, **como** usuário, **quero** requisitar a impressão de etiquetas com dados do arquivamento **para** também ter o mapeamento no espaço físico. |
 | **Critérios de aceitação** | - Botão que gera etiqueta referente ao documento arquivado <br> |
 
-### US12
+### US11
 | **Épico** | Cadastro de inventário (museu) |
 | ---: | :------- |
 | **Descrição** | Eu, **como** usuário alimentador, **quero** cadastrar informações sobre os itens do inventário do museu **para** ter o catálogo registrado no sistema. |
 | **Critérios de aceitação** | - Botão na barra de navegação <br> - Tela de cadastro de item do inventário <br>|
 
-### US13
+### US12
 | **Épico** | Cadastro de inventário (museu) |
 | ---: | :------- |
 | **Descrição** | Eu, **como** usuário visualizador, **quero** ter acesso aos itens do museu cadastrados **para** fazer eventuais consultas ao catalogo. |
 | **Critérios de aceitação** | - Tela com listagem dos itens <br> - Botão na tela de pesquisa <br>|
-| **Dependência** | [US12](#us12)|
+| **Dependência** | [US11](#us11)|
 
 ## Defeitos e melhorias
 
@@ -120,3 +114,4 @@ Defeitos e melhorias informados pelo cliente:
 |Data|Versão|Alteração|Autor|
 |----|------|---------|-----|
 | 02/03/2022 | 0.1 | Criação do Product Backlog | João Baraky |
+| 03/03/2022 | 0.2 | Atualização: remoção da US04 (já estava implementada) | João Baraky |
