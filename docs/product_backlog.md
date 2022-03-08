@@ -1,3 +1,4 @@
+
 # Product Backlog
 ## Introdução
 O Backlog do Produto é um artefato que comporta a lista de requisitos elicitados do sistema até onde se tem conhecimento. Em um contexto de metologia ágil, trata-se de um documento que pode ser alterado ou incrementado conforme o projeto avança. Nele, os requisitos são descritos em Histórias de Usuários e são agrupados em Épicos. Nesse documento também é feito o mapeamento dos defeitos e melhorias identificados pelo cliente.
@@ -7,7 +8,7 @@ O Backlog do Produto é um artefato que comporta a lista de requisitos elicitado
 | Épico  | US's |
 |--|--|
 | Edição e exclusão dos metadados dos documento | [US01](#us01), [US02](#us02), [US03](#us03) |
-| Cadastro de usuários no sistema | [US04](#us04)|
+| Cadastro de usuários no sistema | [US04](#us04), [US13](#us13)|
 | Gerenciar credenciais de usuário (admin, alimentador, visualizador) | [US05](#us05)|
 | Informar quando o documento atinge sua temporalidade | [US06](#us06)|
 | Gerar relatórios | [US07](#us07)|
@@ -93,6 +94,12 @@ O Backlog do Produto é um artefato que comporta a lista de requisitos elicitado
 | **Critérios de aceitação** | - Tela com listagem dos itens <br> - Botão na tela de pesquisa <br>|
 | **Dependência** | [US11](#us11)|
 
+### US13
+| **Épico** | Cadastro de usuários no sistema |
+| ---: | :------- |
+| **Descrição** | Eu, **como** administrador, **quero** gerenciar os usuários cadastrados **para** editar e deletar quando necessário. |
+| **Critérios de aceitação** | - Tela para gerenciamento de usuários cadastrados <br> - Lista de usuários <br> - Botão para edição <br> - Botão para deleção <br>|
+
 ## Defeitos e melhorias
 
 Defeitos e melhorias informados pelo cliente:
@@ -108,10 +115,11 @@ Defeitos e melhorias informados pelo cliente:
 * Nova tela de pesquisa: divisão por categoria de documentos e campos obrigatórios (semelhante à tela de cadastro).
 * Na tela de cadastro, adicionar a lista com todos os documentos (de mesma categoria) abaixo para eventuais consultas.
 *  Adicionar filtro de busca em todas as tabelas de listagem.
-* Mostrar botão configurações na barra de navegação apenas para administradores (depende da [US06](#us06)).
+* Mostrar botão configurações na barra de navegação apenas para administradores (depende da [US05](#us05)).
 
 ## Histórico de Versões
 |Data|Versão|Alteração|Autor|
 |----|------|---------|-----|
 | 02/03/2022 | 0.1 | Criação do Product Backlog | João Baraky |
 | 03/03/2022 | 0.2 | Atualização: remoção da US04 (já estava implementada) | João Baraky |
+| 08/03/2022 | 0.3 | Atualização: adição da US13 | João Baraky |
