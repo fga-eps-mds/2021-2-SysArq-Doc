@@ -1,5 +1,7 @@
 ### Conheça nossa equipe
 
+* falta linkar os perfis do github
+
 | Membro | E-mail | Github | Papel |Matricula|
 |-------------------------------|--------------------------|----------------------------------|----------------------|------------|
 | Iago Oliveira Monteiro Ribeiro | iagorag363@gmail.com	| [iagoomr](https://github.com/) | EPS | 16/0124735 |
