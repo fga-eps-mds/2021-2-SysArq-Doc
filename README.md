@@ -1,3 +1,8 @@
+### Entenda nossa proposta
+O SysArq surgiu da necessidade por um sistema de gerencimento de arquivos para a Polícia Civil do Goiás.
+Com isso, o SysArq busca digitalizar o processo de armazenar os dados dos documentos e onde que eles estão sendo armazenados pela Polícia Civil. 
+
+
 ### Conheça nossa equipe
 
 | Membro | E-mail | Github | Papel |Matricula|
