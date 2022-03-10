@@ -8,8 +8,8 @@
 | Weiller Fernandes Pereira | weillerfernandes@gmail.com	| [WeillerFernandes](https://github.com/WeillerFernandes) | EPS | 13/0137995 |
 | Alex Gabriel Alves Faustino | alexgabriel3357@gmail.com	| [Gabriel-Axl](https://github.com/Gabriel-Axl) | MDS | 20/0056603 |
 | André Corrêa da Silva | andre.correa.silva203@gmail.com	| [dartmol203](https://github.com/dartmol203) | MDS | 20/0014447 |
-| Arthur Henrique Amaral Santana | arthurhenrir4@gmail.com	| [black258br](https://github.com/black258br) | MDS | 20/0035371 |
 | Arthur Ferreira Rodrigues | fr.arthur.fr@gmail.com	| [ArthurFerreiraRodrigues](https://github.com/ArthurFerreiraRodrigues) | MDS | 20/0056981 |
+| Arthur Henrique Amaral Santana | arthurhenrir4@gmail.com	| [black258br](https://github.com/black258br) | MDS | 20/0035371 |
 | Cleber de Oliveira Brant | cleberobb@hotmail.com	| [Cleberbrant](https://github.com/Cleberbrant) | MDS | 20/0061216 |
 | Guilherme Puida Moreira | guilhermepmoreira00@gmail.com	| [guilherme-puida](https://github.com/guilherme-puida) | MDS | 20/0019015 |
 | Paulo Maciel Torres Filho | paulomacieltorresfilho@gmail.com	| [paulomacieltorresfilho](https://github.com/paulomacieltorresfilho) | MDS | 20/0025937 |
@@ -31,10 +31,7 @@
 * Para contribuir no projeto é recomendado abrir as issues existentes e o backlog do produto em [SysArq Docs](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues) para entender o que o projeto precisa atualmente.
 * Se você perceber que o seu problema ainda não foi documentado crie uma issue, porém priorize as já existentes.
 
-### 2. Como rodar o projeto
-
-
-### 3. Orientações
+### 2. Orientações
 * Se você for um colaborador externo, dê um fork no projeto.
 * Issues só poderão ser criadas com os [templates de issue](.github/ISSUE_TEMPLATE) especificados no repositório.
 * A criação de branches deve seguir a política de branches.
