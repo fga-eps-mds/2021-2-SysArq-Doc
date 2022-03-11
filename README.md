@@ -1,5 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/78980992/157777186-2be647ed-7e5f-44e4-8093-c4293e83994a.png)
+![image](https://user-images.githubusercontent.com/78980992/157777487-6715c44a-bc49-4b61-a7ff-b54c4e6fda7f.png)
 
 
 ### Entenda nossa proposta
