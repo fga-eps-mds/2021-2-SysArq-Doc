@@ -22,11 +22,11 @@ Término: 07/03/2022
 | 8 |[Alterar ordem dos botões](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/8)|1|
 | 9 |[Expandir item nas tabelas](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/9)|5|
 | 10 |[Nova tela de pesquisa](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/10)|3|
-| 11 |[Validação do CPF no cadastro de servidor](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/11)|-|
-| 12 |[Adicionar máscara do CPF no cadastro de servidor](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/12)|-|
+| 11 |[Validação do CPF no cadastro de servidor](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/11)|3|
+| 12 |[Adicionar máscara do CPF no cadastro de servidor](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/12)|3|
 | 13 |[Adicionar possibilidade de meses e dias na temporalidade do documento](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/13)|1|
 | 14 |[Retornar a tela de listagem após cadastrar um documento](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/14)|-|
-| 15 |[Limpar os campos após cadastrar um campo obrigatório](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/15)|-|
+| 15 |[Limpar os campos após cadastrar um campo obrigatório](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/15)|5|
 
 ## Pareamentos
 

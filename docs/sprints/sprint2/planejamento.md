@@ -33,24 +33,28 @@ Término: 14/03/2022
 | ID | Issues | Pontuação |
 |:--:|:-----: | :--------:|
 | 9 |[Expandir item nas tabelas](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/9)|5|
-| 15 |[Limpar os campos após cadastrar um campo obrigatório](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/15)|-|
-| 49 |[Direcionar direto para o forms de cadastro](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/49)|-|
-| 50 |[Remover botão "Cadastrar" nas listas](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/50)|-|
-| 51 |[Adicionar lista abaixo dos forms de cadastro](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/51)|-|
-| 52 |[Adicionar filtros nas listas](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/52)|-|
-| 54 |[[US13] Tela de gerenciamento de usuários](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/54)|-|
-| 55 |[Criar README do Docs](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/55)|-|
-| 56 |[[US04/US13] Tela de configurações](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/56)|-|
+| 15 |[Limpar os campos após cadastrar um campo obrigatório](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/15)|5|
+| 49 |[Direcionar direto para o forms de cadastro](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/49)|3|
+| 50 |[Remover botão "Cadastrar" nas listas](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/50)|2|
+| 51 |[Adicionar lista abaixo dos forms de cadastro](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/51)|5|
+| 52 |[Adicionar filtros nas listas](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/52)|5|
+| 54 |[[US13] Tela de gerenciamento de usuários](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/54)|8|
+| 55 |[Criar README do Docs](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/55)|2|
+| 56 |[[US04/US13] Tela de configurações](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/56)|13|
+
+**Total de pontos: 48**
 
 ## Pareamentos
 
 | Pareamentos | Membros | Issues |
 |:--------: | :-------: | :----: |
-| 1 | Guilherme e Alex | 9 |
-| 2 | Paulo e Cléber | 15 |
+| 1 | Alex e Guilherme | 9 |
+| 2 | Cléber e Paulo | 15 |
 | 3 | Arthur Henrique e Wesley | 50 e 52 |
-| 4 | Paulo e Alex | 49 |
+| 4 | Alex e Paulo | 49 |
 | 5 | André | 55 e 56 |
+| 6 | Alex e Cléber | 54 |
+| 7 | Cléber e Guilherme | 51 |
 
 ## Resumo
 
