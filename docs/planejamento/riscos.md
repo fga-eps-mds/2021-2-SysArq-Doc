@@ -5,10 +5,6 @@ O Gerenciamento de Riscos é uma etapa responsável por levantar, analisar e pro
 
 ![](https://i.imgur.com/OYncwJJ.jpg)
 
-## Histórico de Versões
-|Data|Versão|Alteração|Autor|  
-|----|------|---------|-----|  
-| 01/03/2022 | 0.1 |Criação do documento de Planejamento| João Baraky |
 ### Risco Técnico
 | Tipo| Descrição |
 |:-:|:-:|

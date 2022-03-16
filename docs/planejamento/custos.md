@@ -6,6 +6,8 @@ O Gerenciamento de Custos é uma etapa de planejamento que visa estimar os gasto
 
 <iframe width="100%" height="480px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR0gfWWEehGHs2zZhonpTV6z6bS8R7SyV_mQ4I4ed5L4Kk0E4bagJMkGkobCNV5RWLgT1bPEKy90kvm/pubhtml?gid=0&single=true"></iframe>
 
+[Link para a planilha](https://docs.google.com/spreadsheets/d/e/2PACX-1vR0gfWWEehGHs2zZhonpTV6z6bS8R7SyV_mQ4I4ed5L4Kk0E4bagJMkGkobCNV5RWLgT1bPEKy90kvm/pubhtml?gid=0&single=true)
+
 
 ## Esclarecimento dos custos
 ### Energia
