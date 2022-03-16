@@ -1,17 +1,18 @@
-<h1 style="text-align: center">Sprint Planning</h1>
+<h1 style="text-align: center">Planejamento da semana</h1>
 
 ## Histórico de Revisão
 | Data | Versão | Descrição | Autor(es)|
 |:----:|:------:|:---------:|:--------:|
 | 19/02/22 | 0.1 | Adicionando Sprint Backlog, pareamentos e resumo | [Weiller Fernandes](https://github.com/WeillerFernandes) |
+| 09/03/22 | 0.2 | Aplicando correções no documento | [Weiller Fernandes](https://github.com/WeillerFernandes) |
 
-## Datas da Sprint
+## Datas importantes
 
 Início: 14/02/2022
 Término: 21/02/2022
 
-## Sprint Backlog
-| Issues | Pontuação |
+## Tarefas a serem realizadas
+| Tarefas | Pontuação |
 |:-----: | :--------:|
 [Realizar treinamento de Django Rest](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/1)|-|
 [Elaborar a Lean Inception](https://github.com/fga-eps-mds/2021-2-SysArq-Doc/issues/2)|-|
@@ -33,5 +34,5 @@ Esses pareamentos foram criados para que os membros de MDS façam o treinamento 
 ## Resumo
 
 Para começar a trabalhar no projeto é importante que todos os membros tenham os repositórios em suas máquinas e consigam rodar o ambiente, por isso foi criada uma issue específica para essa atividade.
-Além disso, com base no quadro de conhecimentos, os membros de MDS tem menor afinidade com o framework Django Rest. Por isso o seu treinamento foi priorizado para essa Sprint, com um pequeno projeto sendo passado para que eles pudessem realizar em duplas.
+Além disso, com base no quadro de conhecimentos, os membros de MDS tem menor afinidade com o framework Django Rest. Por isso o seu treinamento foi priorizado para essa semana, com um pequeno projeto sendo passado para que eles pudessem realizar em duplas.
 Por fim, é importante alinhar a visão do produto junto com os clientes e para isso a Lean Inception deve ser realizada juntamente com o preenchimento do mural.
