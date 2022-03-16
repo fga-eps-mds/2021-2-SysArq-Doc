@@ -17,7 +17,12 @@ Foi uma reunião que teve como objetivo a validação do Canvas MVP. Discutimos 
 
 ## Mural Lean Inception
 
-<iframe src="https://app.mural.co/embed/fe8ce76a-744e-47a9-997f-dc816d1b55e3'" width="100%" height="480px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} sandbox="allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox"></iframe>
+<iframe src='https://app.mural.co/embed/fe8ce76a-744e-47a9-997f-dc816d1b55e3'
+        width='100%'
+        height='480px'
+        style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
+        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
+</iframe>
 
 [Link para o mural Lean Inception](https://app.mural.co/embed/fe8ce76a-744e-47a9-997f-dc816d1b55e3)
 
