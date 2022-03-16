@@ -128,3 +128,4 @@ A arquitetura de microsserviços permite definir algumas metas de qualidade, com
 
 ## **8. Referências**
 Documento de Arquitetura de Software. FUNPAR. Disponível em: <<https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/workproducts/rup_software_architecture_document_C367485C.html>>.
+
