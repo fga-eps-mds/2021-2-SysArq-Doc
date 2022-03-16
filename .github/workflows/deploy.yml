@@ -3,7 +3,7 @@ name: Deploy da Documentação
 on:
   push:
     branches:
-      - 76-deploy_wiki
+      - main
 
 jobs:
   deploy:
