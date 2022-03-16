@@ -1,0 +1,118 @@
+site_name: Documentação
+
+copyright: Logo and Favicon made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+
+repo_name: fga-eps-mds/2021.1-PC-GO1
+repo_url: https://github.com/fga-eps-mds/2021.1-PC-GO1
+
+edit_uri: ""
+
+extra_css:
+  - stylesheets/extra.css
+
+theme:
+  name: material
+
+  logo: stylesheets/assets/logo.png
+
+  favicon: stylesheets/assets/logo.png
+
+  icon:
+    repo: fontawesome/brands/github
+
+  features:
+    - navigation.tabs
+    - navigation.top
+  
+extra_css:
+  - stylesheets/extra.css
+  
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/fga-eps-mds/2021.1-PC-GO1
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+nav:
+  - Artefatos:
+    - Início: documentation.md
+    - Protótipos: prototipos/prototypes.md
+    - Identidade Visual: visual_id.md
+    - Product Backlog: product_backlog.md
+    - Documento de arquitetura: doc_arquitetura.md
+    - Pipeline: pipeline.md
+    - Gráfico de Gantt: gantt.md
+    - Testes de sistema/aceitação: teste_aceitacao_sistema.md
+    - Hipóteses de negócio: hipotese_negocio.md
+    - Metodologia:
+      - Templates:
+        - Planning: metodologia/templates/planning.md
+        - Review: metodologia/templates/review.md
+        - Retrospective: metodologia/templates/retrospective.md
+      - Risco:
+        - Planejamento: metodologia/gerenciamentoRiscos/risco.md
+        - Planos de mitigação: metodologia/gerenciamentoRiscos/planosMitigacao.md
+      - Metricas de Qualidade: metodologia/metricas_qualidade.md
+      - Custo: 
+        - Método: metodologia/custo/custo.md
+        - Análise: metodologia/custo/analise.md
+      - Ferramentas: metodologia/ferramentas.md
+      - Agenda: metodologia/agenda.md
+      - Sprints: metodologia/sprints.md
+  - Artefatos Pré-Sprints:
+    - Lean Inception: artefatos_pre_sprints/leanInception.md
+    - Product Backlog Building: artefatos_pre_sprints/productBacklogBuilding.md
+    - Informações dos Membros: artefatos_pre_sprints/informacaoMembros.md
+  - Reuniões: reuniao.md
+  - Sprints:
+    - Sprint1:
+      - Planning: sprints/sprint1/planning/planning.md
+      - Review: sprints/sprint1/review/review.md
+      - Retrospective: sprints/sprint1/retrospective/retrospective.md 
+    - Sprint2:
+      - Planning: sprints/sprint2/planning/planning.md
+      - Review: sprints/sprint2/review/review.md
+      - Retrospective: sprints/sprint2/retrospective/retrospective.md
+    - Sprint3:
+      - Planning: sprints/sprint3/planning/planning.md
+      - Review: sprints/sprint3/review/review.md
+      - Retrospective: sprints/sprint3/retrospective/retrospective.md
+    - Sprint4:
+      - Planning: sprints/sprint4/planning/planning.md
+      - Review: sprints/sprint4/review/review.md
+      - Retrospective: sprints/sprint4/retrospective/retrospective.md
+    - Sprint5:
+      - Planning: sprints/sprint5/planning/planning.md
+      - Review: sprints/sprint5/review/review.md
+      - Retrospective: sprints/sprint5/retrospective/retrospective.md
+    - Sprint6:
+      - Planning: sprints/sprint6/planning/planning.md
+      - Review: sprints/sprint6/review/review.md
+      - Retrospective: sprints/sprint6/retrospective/retrospective.md
+    - Sprint7:
+      - Planning: sprints/sprint7/planning/planning.md
+      - Review: sprints/sprint7/review/review.md
+      - Retrospective: sprints/sprint7/retrospective/retrospective.md
+    - Sprint8:
+      - Planning: sprints/sprint8/planning/planning.md
+      - Review: sprints/sprint8/review/review.md
+      - Retrospective: sprints/sprint8/retrospective/retrospective.md
+    - Sprint9:
+      - Planning: sprints/sprint9/planning/planning.md
+      - Review: sprints/sprint9/review/review.md
+      - Retrospective: sprints/sprint9/retrospective/retrospective.md
+    - Sprint10:
+      - Planning: sprints/sprint10/planning/planning.md
+      - Review: sprints/sprint10/review/review.md
+      - Retrospective: sprints/sprint10/retrospective/retrospective.md
+    - Sprint11:
+      - Planning: sprints/sprint11/planning/planning.md
+      - Review: sprints/sprint11/review/review.md
+      - Retrospective: sprints/sprint11/retrospective/retrospective.md
+  - Políticas do Repositório: 
+    - Como contribuir: contributing.md
+    - Código de conduta: code_of_conduct.md
