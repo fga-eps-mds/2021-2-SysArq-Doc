@@ -1,3 +1,4 @@
+# Planejamento de Comunicação
 ## Planejamento
 Elaboramos umas grade para verificar os horários que possuem mais membros disponíveis. Além disso, criamos um quadro de conhecimento para identificar os pontos fortes e fracos da equipe, sendo importante para treinamentos e início dos trabalhos.
 
