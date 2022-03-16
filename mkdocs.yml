@@ -1,0 +1,69 @@
+site_name: Documentação
+
+copyright: Logo and Favicon made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+
+repo_name: fga-eps-mds/2021-2-SysArq-Doc
+repo_url: https://github.com/fga-eps-mds/2021-2-SysArq-Doc
+
+edit_uri: ""
+
+extra_css:
+  - stylesheets/extra.css
+
+theme:
+  name: material
+
+  logo: stylesheets/assets/logo.png
+
+  favicon: stylesheets/assets/logo.png
+
+  icon:
+    repo: fontawesome/brands/github
+
+  features:
+    - navigation.tabs
+    - navigation.top
+  
+extra_css:
+  - stylesheets/extra.css
+  
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/fga-eps-mds/2021-2-SysArq-Doc
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+nav:
+  - Artefatos:
+    - Início: documentation.md
+    - Documento de arquitetura: doc_arquitetura.md
+  - Reuniões Com Cliente:
+    - Reuniao1: reunioes_cliente/02-16_validacao_li.md
+    - Reuniao2: reunioes_cliente/02-23_validacao_li_pt2.md
+    - Reuniao3: reunioes_cliente/02-24_rev_tecnica_sequenciador.md
+    - Reuniao4: reunioes_cliente/03-09_novas_melhorias.md
+  - Planejamento:
+    - Comunicacao: planejamento/comunicacao.md
+    - Custos: planejamento/custos.md
+    - Riscos: planejamento/riscos.md
+    - Tempo: planejamento/tempo.md    
+  - Sprints:
+    - Semana1:
+      - Planning: sprints/semana1/planejamento.md
+    - Semana2:
+      - Planning: sprints/semana2/planejamento.md   
+    - Sprint1:
+      - Planning: sprints/sprint1/planejamento.md
+      - Review: sprints/sprint1/revisao.md
+      - Retrospective: sprints/sprint1/retrospectiva.md 
+    - Sprint2:
+      - Planning: sprints/sprint2/planejamento.md
+      # - Review: sprints/sprint2/revisao.md
+      # - Retrospective: sprints/sprint2/retrospectiva.md 
+  - Políticas do Repositório: 
+    - Como contribuir: contributing.md
+    - Código de conduta: code_of_conduct.md
