@@ -3,7 +3,7 @@ site_name: Documentação
 copyright: Logo and Favicon made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 
 repo_name: fga-eps-mds/2021-2-SysArq-Doc
-repo_url: https://github.com/fga-eps-mds/2021-2-SysArq-Doc
+repo_url: https://github.com/fga-eps-mds/2021-2-SysArq-Doc/tree/76-deploy_wiki
 
 edit_uri: ""
 
@@ -30,7 +30,7 @@ extra_css:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/fga-eps-mds/2021-2-SysArq-Doc
+      link: https://github.com/fga-eps-mds/2021-2-SysArq-Doc/tree/76-deploy_wiki
 
 markdown_extensions:
   - pymdownx.emoji:
