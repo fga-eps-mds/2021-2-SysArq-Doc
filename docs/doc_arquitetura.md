@@ -16,7 +16,7 @@
 |16/09/2021|1.2|Adicionando DE-R e DLD de profile|[Paulo Vitor](https://github.com/PauloVitorRocha)|
 |07/10/2021|2.0|Atualizando diagramas para refletir o backend|[Paulo Vitor](https://github.com/PauloVitorRocha)|
 |04/11/2021|3.0|Atualiza diagramas para refletir o sistema implementado|[Paulo Vitor](https://github.com/PauloVitorRocha)|
-|14/03/2021|3.1|Atualizando diagramas para adequar as melhorias propostas|[Rafael Teodosio](https://github.com/rafaelteodosio)|
+|14/03/2022|3.1|Atualizando diagramas para adequar as melhorias propostas|[Rafael Teodosio](https://github.com/rafaelteodosio)|
 
 
 ## **1. Introdução**
