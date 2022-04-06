@@ -17,7 +17,7 @@ Valor referente ao custo médio de R$ 150,00 por mês, proporcional a 10 horas s
 ###  Computador pessoal
 Valor de R$ 3.199.99  referente a um notebook Ryzen 5 8GB 256GB SSD (R$ 3.199,99), sendo suficiente para o desenvolvimento do projeto.
 ### Pessoal
-Valor referente ao gasto por ano por um aluno da FGA de R$ 26.040,00, resultando em R$ 90,41  por semana para uma matéria de 4 créditos (considerando a média de 24 créditos por semestre)
+Valor referente ao gasto por ano por um aluno da FGA de R$ 26.040,00, resultando em R$ 90,41  por semana para uma matéria de 4 créditos (considerando a média de 24 créditos por semestre). Valores retirado do [Relatório do Decanato de Planejamento e Orçamento da UnB de 2016](http://www.dpo.unb.br/images/phocadownload/documentosdegestao/relatoriogestao/Relatrio-de-Gesto-2016.pdf)
 
 ```
 ((26.040,00 / 12) / 4) / 6 = 90,41
@@ -27,3 +27,4 @@ Valor referente ao gasto por ano por um aluno da FGA de R$ 26.040,00, resultando
 |Data|Versão|Alteração|Autor|
 |----|------|---------|-----|
 | 16/03/2022 | 0.1 |Criação do documento de Gerenciamento de Custos| João Baraky |
+| 05/04/2022 | 0.2 |Adiciona fonte do valor| João Baraky |
