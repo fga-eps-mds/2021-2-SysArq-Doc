@@ -1,4 +1,12 @@
 # Documento de Visão/Incremento
+
+## Histórico de Versões
+| Versão | Data       | Modificação                     | Autor(es) |
+| ------ | ---------- | ------------------------------| ----- |
+| 1.0    | 14/03/2022 | Criação do documento | Iago Oliveira |
+| 1.1    | 16/03/2022 | Atualização do documento | Iago Oliveira |
+| 2.0    | 16/03/2022 | Atualização do documento e adição da introdução | João Baraky |
+
 ## Introdução
 A definição da Visão do Produto/Incremento é uma das etapas mais importantes no desenvolvimento de software. Utilizamos o framework Lean Inception, que funciona como um guia para chegar em um Canvas MVP. São feitas várias reuniões com os clientes para que o resultado final esteja alinhado com suas necessidades. No caso desse projeto, as atividades envolviam, majoritariamente, validar a visão do produto definida pela equipe anterior e adicionar novas funcionalidades necessárias.
 ## Cronograma
@@ -25,10 +33,3 @@ Foi uma reunião que teve como objetivo a validação do Canvas MVP. Discutimos 
 </iframe>
 
 [Link para o mural Lean Inception](https://app.mural.co/embed/fe8ce76a-744e-47a9-997f-dc816d1b55e3)
-
-## Histórico de Versões
-| Versão | Data       | Modificação                     | Autor(es) |
-| ------ | ---------- | ------------------------------| ----- |
-| 1.0    | 14/03/2022 | Criação do documento | Iago Oliveira |
-| 1.1    | 16/03/2022 | Atualização do documento | Iago Oliveira |
-| 2.0    | 16/03/2022 | Atualização do documento e adição da introdução | João Baraky |

@@ -1,4 +1,11 @@
 
+**Histórico de Revisão**
+
+|Data|Versão|Descrição|Autor|
+| - | - | - | - |
+|30/08/2021|0.1|Versão inicial|[João Gabriel](https://github.com/bielrossi15)|
+|05/04/2021|0.2|Criando histórico de revisão|[Rafael Teodosio](https://github.com/rafaelteodosio)|
+
 ## Como contribuir?
 * Navegue pelas issues criadas no repositório para entender o que o projeto está precisando no momento.
 * Se identificar algo novo, crie uma issue utilizando um dos templates.
