@@ -42,6 +42,7 @@ nav:
     - Início: documentation.md
     - Documento de arquitetura: doc_arquitetura.md
     - Documento de visão: doc_visao.md
+    - Identidade Visual: visual_id.md
   - Reuniões Com Cliente:
     - Reuniao1: reunioes_cliente/02-16_validacao_li.md
     - Reuniao2: reunioes_cliente/02-23_validacao_li_pt2.md
