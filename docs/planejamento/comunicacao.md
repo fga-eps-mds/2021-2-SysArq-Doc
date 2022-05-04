@@ -5,7 +5,7 @@ Elaboramos umas grade para verificar os horários que possuem mais membros dispo
 ### Grade de disponibilidade
 ![](https://i.imgur.com/5jvdXS0.png)
 ### Quadro de conhecimento
-![](https://i.imgur.com/Gb4L4Ln.png)
+![](https://i.imgur.com/uyhsCJH.png)
 
 ## Comunicação
 
@@ -39,3 +39,4 @@ Para armazenamento e gerenciamento de artefatos referentes a equipe.
 |Data|Versão|Alteração|Autor|  
 |----|------|---------|-----|  
 | 01/03/2022 | 0.1 |Criação do documento de Planejamento| João Baraky |
+| 04/05/2022 | 1.0 |Atualização do quadro de conhecimento| João Baraky |
